@@ -1,0 +1,28 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 1,
+      "baslik": "Kitap",
+      "icerik": "Walter Isaacson'ın yazdığı Steve Jobs kitabını oku",
+      "yapildi": false
+    },
+    {
+      "id": 2,
+      "baslik": "İngilizce",
+      "icerik": "En son eklenen BBC 6 minute english podcast'ini dinle",
+      "yapildi": true
+    },
+    {
+      "baslik": "Podcast",
+      "icerik": "Codefiction son podcastini dinle",
+      "yapildi": true,
+      "id": 3
+    },
+    {
+      "id": 63318742,
+      "baslik": "Video",
+      "icerik": "Bebar bilimin kuantum videolarını izle",
+      "yapildi": false
+    }
+  ]
+}
